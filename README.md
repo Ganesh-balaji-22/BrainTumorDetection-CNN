@@ -5,6 +5,8 @@ The dataset used for this project is the [Brain MRI Images for Brain Tumor Detec
 * `NO` - no tumor (encoded as `0`)
 * `YES` - tumor (encoded as `1`)
 
+And the pretrained model used here is [VGG16 MODEL](https://www.kaggle.com/datasets/gaborfodor/keras-pretrained-models)
+
 ## Setting up the Environment
 Ensure the required packages are installed by running the provided code in the "Setting up the Environment" section. The code sets up the necessary libraries for data preprocessing and model building.
 
